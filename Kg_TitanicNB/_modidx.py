@@ -5,4 +5,6 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://Positron00.github.io',
                 'git_url': 'https://github.com/Positron00/Kg_TitanicNB',
                 'lib_path': 'Kg_TitanicNB'},
-  'syms': {'Kg_TitanicNB.core': {'Kg_TitanicNB.core.foo': ('core.html#foo', 'Kg_TitanicNB/core.py')}}}
+  'syms': { 'Kg_TitanicNB.core': { 'Kg_TitanicNB.core.foo': ('core.html#foo', 'Kg_TitanicNB/core.py'),
+                                   'Kg_TitanicNB.core.say_hello': ('core.html#say_hello', 'Kg_TitanicNB/core.py')},
+            'Kg_TitanicNB.titanic_checkData': {}}}
