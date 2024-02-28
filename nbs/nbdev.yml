@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Kg_TitanicNB"
+  site-url: "https://Positron00.github.io/Kg_TitanicNB"
+  description: "a test repo for the Kaggle Titanic tutorial competition"
+  repo-branch: main
+  repo-url: "https://github.com/Positron00/Kg_TitanicNB"
