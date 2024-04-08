@@ -8,4 +8,6 @@ d = { 'settings': { 'branch': 'main',
   'syms': { 'Kg_TitanicNB.core': { 'Kg_TitanicNB.core.foo': ('core.html#foo', 'Kg_TitanicNB/core.py'),
                                    'Kg_TitanicNB.core.say_hello': ('core.html#say_hello', 'Kg_TitanicNB/core.py')},
             'Kg_TitanicNB.titanic_checkData': { 'Kg_TitanicNB.titanic_checkData.impute_age': ( 'titanicdataset.html#impute_age',
-                                                                                               'Kg_TitanicNB/titanic_checkData.py')}}}
+                                                                                               'Kg_TitanicNB/titanic_checkData.py'),
+                                                'Kg_TitanicNB.titanic_checkData.impute_fare': ( 'titanicdataset.html#impute_fare',
+                                                                                                'Kg_TitanicNB/titanic_checkData.py')}}}

@@ -1,0 +1,44 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.9.12",
+    "heartbeatAt": "2024-04-08T14:24:40.204588",
+    "startedAt": "2024-04-08T14:24:39.775346",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/Positron00/Kg_TitanicNB.git",
+        "commit": "aea17a9b382281c19206680cb3e4c901a3e5bb5b"
+    },
+    "email": "danc@janelia.hhmi.org",
+    "root": "/Users/danc/Repos/Kg_TitanicNB",
+    "host": "danc-lm2",
+    "username": "danc",
+    "executable": "/opt/anaconda3/envs/nbenv/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2400,
+        "min": 2400,
+        "max": 2400
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400,
+            "min": 2400,
+            "max": 2400
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1863.3869895935059,
+            "used": 1253.3095397949219
+        }
+    },
+    "memory": {
+        "total": 32.0
+    }
+}
